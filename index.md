@@ -1,8 +1,10 @@
- # Katelyn Zhao
- ### k5zhao@ucsd.edu
+---
+layout: home
+title: "Katelyn Zhao"
+description: "Deep Learning in the Microbiome – Mentor: Rob Knight"
+---
 
-## Deep Learning in the Microbiome
-### Mentor: Rob Knight
+📧 [k5zhao@ucsd.edu](mailto:k5zhao@ucsd.edu)
 
 ## Quarter 2 Project Proposal
 
